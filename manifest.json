@@ -3,13 +3,13 @@
 	"name": "yearn-launchpad",
 	"icons": [
 		{
-			"src": "favicon-bg.svg",
-			"sizes": "any",
+			"src": "favicon.svg",
+			"sizes": "16x16 32x32 48x48 72x72 96x96 128x128 256x256 512x512",
 			"type": "image/svg+xml"
 		}
 	],
 	"start_url": ".",
 	"display": "standalone",
-	"theme_color": "yellow",
-	"background_color": "red"
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff"
 }
