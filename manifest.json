@@ -1,8 +1,6 @@
 {
 	"short_name": "yearn-launchpad",
 	"name": "yearn-launchpad",
-	"icons": [
-	],
 	"start_url": ".",
 	"display": "standalone",
 	"theme_color": "yellow",
